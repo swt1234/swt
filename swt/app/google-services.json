@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367682999542",
+    "firebase_url": "https://softwaves-technologies-1ee27.firebaseio.com",
+    "project_id": "softwaves-technologies-1ee27",
+    "storage_bucket": "softwaves-technologies-1ee27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367682999542:android:d7aecad82136589a8fc8d7",
+        "android_client_info": {
+          "package_name": "com.example.swt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367682999542-prcml0k595lerpf6kklna8tlt4e59ur5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swt",
+            "certificate_hash": "bf59ba424c4fb840c05aeecd5e9463fce4faccce"
+          }
+        },
+        {
+          "client_id": "367682999542-g2e6lod6fd5hec031j1g95i10lp4mva9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdYzyMT1tXXZCFuQo-AR_a2WYKbylN9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367682999542-g2e6lod6fd5hec031j1g95i10lp4mva9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
